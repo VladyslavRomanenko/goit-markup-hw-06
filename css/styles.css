@@ -768,11 +768,10 @@ address {
 .modal-form-group {
   display: flex;
   flex-direction: column;
-
   position: relative;
 }
 
-.modal-form-group::not(:last-child) {
+.modal-form-group:not(:last-child) {
   margin-bottom: 8px;
 }
 
