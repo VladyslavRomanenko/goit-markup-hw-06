@@ -775,6 +775,8 @@ address {
   margin-bottom: 8px;
 }
 
+/* ___ */
+
 .input-modal {
   border: 1px solid var(--subtle-text-color);
   border-radius: 4px;
